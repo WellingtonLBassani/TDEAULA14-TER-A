@@ -1,0 +1,14 @@
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\bin\Debug\net8.0\aula14TDE.exe
+C:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\bin\Debug\net8.0\aula14TDE.deps.json
+C:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\bin\Debug\net8.0\aula14TDE.runtimeconfig.json
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\bin\Debug\net8.0\aula14TDE.dll
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\bin\Debug\net8.0\aula14TDE.pdb
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.AssemblyInfoInputs.cache
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.AssemblyInfo.cs
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.csproj.CoreCompileInputs.cache
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.dll
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\refint\aula14TDE.dll
+c:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.pdb
+C:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\aula14TDE.genruntimeconfig.cache
+C:\Users\Wellington\Desktop\LP TERÇA\aula14TDE\obj\Debug\net8.0\ref\aula14TDE.dll
